@@ -209,3 +209,6 @@ __marimo__/
 # csv
 .csv
 classificacao_doencas_cardiacas/heart.csv
+
+# zip
+.zip
